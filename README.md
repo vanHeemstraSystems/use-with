@@ -1,7 +1,7 @@
 repository-name
 # Repository Name
 
-Based on "ABC" at https://www.abc.com/
+Based on "Is there a way to tell iOS mail app to put emails from specific senders in a special folder automatically?" at https://apple.stackexchange.com/questions/75367/is-there-a-way-to-tell-ios-mail-app-to-put-emails-from-specific-senders-in-a-spe
 
 ## 100 - Introduction
 
